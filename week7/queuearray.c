@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <Stdlib.h>
+#include <stdlib.h>
 #define maxsize 5
 int f=-1,r=-1,i,queue[maxsize];
 int isfull(){
